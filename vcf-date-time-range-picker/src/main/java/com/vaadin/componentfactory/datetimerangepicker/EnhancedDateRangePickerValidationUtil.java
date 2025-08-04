@@ -1,4 +1,4 @@
-package com.vaadin.componentfactory;
+package com.vaadin.componentfactory.datetimerangepicker;
 
 /*
  * Copyright 2000-2019 Vaadin Ltd.
