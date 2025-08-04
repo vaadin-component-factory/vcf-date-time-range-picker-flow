@@ -1,4 +1,4 @@
-package com.vaadin.componentfactory;
+package com.vaadin.componentfactory.datetimerangepicker;
 
 import java.util.Optional;
 import java.util.stream.Collectors;

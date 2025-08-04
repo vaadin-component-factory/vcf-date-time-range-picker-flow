@@ -1,4 +1,4 @@
-package com.vaadin.componentfactory;
+package com.vaadin.componentfactory.datetimerangepicker;
 
 import com.vaadin.flow.component.UI;
 import com.vaadin.flow.testutil.ClassesSerializableTest;
